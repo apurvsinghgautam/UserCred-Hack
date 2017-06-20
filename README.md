@@ -9,7 +9,7 @@ All these applications are not flagged as virus or any other malware by any anti
 <li>Convert these python files into exe files</li>
 <li>Put all the files into a pendrive</li>
 <li>Create an autorun file to run the applications at startup</li>
-<li>After successful running of the applications output files will be generfated in the pendrive</li>
+<li>After successful running of the applications output files will be generated in the pendrive</li>
 </ul>
 
 Enjoy!
