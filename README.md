@@ -1,5 +1,5 @@
 # UserCred Hack
-Applications that grab User Credentials<br>
+Application that grab User Credentials<br>
 The application include Google Chrome password grabber, Windows Clipboard grabber, Keylogs Grabber.<br>
 
 All these applications are not flagged as virus or any other malware by any anti-virus. All the applications are coded in Python language.<br>
